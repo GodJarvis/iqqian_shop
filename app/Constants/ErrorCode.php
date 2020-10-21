@@ -16,6 +16,7 @@ use Hyperf\Constants\Annotation\Constants;
 
 /**
  * @Constants
+ * @method static string getMessage(...$arg)
  */
 class ErrorCode extends AbstractConstants
 {

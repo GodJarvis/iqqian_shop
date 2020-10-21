@@ -40,7 +40,16 @@
         "hyperf/tracer": "~2.0.0",
         "hyperf-ext/jwt": "^2.0",
         "hyperf/snowflake": "^2.0",
-        "hyperf/watcher": "^2.0"
+        "hyperf/watcher": "^2.0",
+        "ext-openssl": "*",
+      "ext-curl": "*",
+        "ext-json": "*",
+      "ext-mcrypt": "*",
+        "ext-iconv": "*",
+        "hyperf/validation": "^2.0",
+      "ext-bcmath": "*",
+        "ext-libxml": "*",
+        "ext-simplexml": "*"
     },
     "require-dev": {
         "swoole/ide-helper": "^4.5",
